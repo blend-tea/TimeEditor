@@ -1,0 +1,9 @@
+# ninja log v6
+8	509	7545996240375381	TimeEditor_autogen/timestamp	9b66f4b601306d6c
+8	509	7545996240375381	TimeEditor_autogen/mocs_compilation.cpp	9b66f4b601306d6c
+8	509	7545996240375381	C:/Users/pro_user/Documents/TimeEditor/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release/TimeEditor_autogen/timestamp	9b66f4b601306d6c
+8	509	7545996240375381	C:/Users/pro_user/Documents/TimeEditor/build/Desktop_Qt_6_8_0_MinGW_64_bit-Release/TimeEditor_autogen/mocs_compilation.cpp	9b66f4b601306d6c
+514	1619	7545996241085328	CMakeFiles/TimeEditor.dir/TimeEditor_autogen/mocs_compilation.cpp.obj	fd09e276984b10cb
+517	1663	7545996241115327	CMakeFiles/TimeEditor.dir/main.cpp.obj	f42cbdafd9bfb1f1
+519	2746	7545996241135301	CMakeFiles/TimeEditor.dir/mainwindow.cpp.obj	ab8172fd942213ea
+2747	2837	7545996263422455	TimeEditor.exe	250b06595cbe5e7b
